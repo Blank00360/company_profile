@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Sample Fort",
+    "category": "Fort",
+    "district": "Sagar",
+    "image": "https://picsum.photos/600/400?1"
+  },
+  {
+    "name": "Sample Forest",
+    "category": "Forest",
+    "district": "Narsinghpur",
+    "image": "https://picsum.photos/600/400?2"
+  }
+]
